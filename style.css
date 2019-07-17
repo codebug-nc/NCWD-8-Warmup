@@ -3,10 +3,12 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  background-color: yellow;
 }
 
 #boo {
   font-size: 80pt;
+  color: yellow;
 }
 
 #btn {
@@ -16,3 +18,4 @@ body {
   padding: 20px;
   font-size: 30px;
 }
+
